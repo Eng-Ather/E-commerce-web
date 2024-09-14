@@ -1,2 +1,8 @@
-# E-commerce-web
-This React app enables user registration with Firebase Authentication, handling errors and displaying loading states. It features a responsive design with Tailwind CSS and manages navigation using React Router. Technologies: React, Vite, Tailwind CSS, Firebase.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
